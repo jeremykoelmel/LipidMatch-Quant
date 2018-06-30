@@ -6,6 +6,12 @@ How to download LipidMatchQuant
 =========================================
 Want to download the latest version? Click "release" in the lower menu then click 'zip' to download the version you want!
 
+Installation Requirements (Dependencies)
+=========================================
+R: Built and tested using R version 3.3.3 <https://cloud.r-project.org/>
+R-Studio: (this is not necessary but will be helpful) <https://www.rstudio.com/>
+Windows: Built using Windows 10
+
 Want to report a bug?
 =========================================
 
